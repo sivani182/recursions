@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/T. Praveen Kumar/Music/recursions",
-      "program": "c:/Users/T. Praveen Kumar/Music/recursions/build/Debug/outDebug",
+      "cwd": "c:/Users/Syed Fazia/Documents/GitHub/recursions",
+      "program": "c:/Users/Syed Fazia/Documents/GitHub/recursions/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
